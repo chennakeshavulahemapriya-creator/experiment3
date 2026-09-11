@@ -4,3 +4,4 @@ public class Samplecode{
         System.out.println("Hello , my name is " +name);
     }
 }
+
